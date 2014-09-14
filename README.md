@@ -1,7 +1,7 @@
 Fall14
 ======
 
-This is an online repository for collaborative completion of Stochastic Processes 1 homework assignments.  
+This is an online repository for collaborative completion of the Stochastic Processes homework assignments.  
 
 You can add files and directories using the '+' symbol
 
