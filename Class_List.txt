@@ -1,3 +1,3 @@
-This is a list of students in the class and the programming language they are using
+This is a list of students in the class and the programming language they are using:
 
 Ben Harper - Matlab
