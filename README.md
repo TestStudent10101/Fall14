@@ -12,3 +12,6 @@ You can edit files using the pencil symbol.  If you click on file such as README
 
 ##Pull Requests
 After an addition or edit has been made, the change must be proposed as a pull request. This pull request sends a request to the administrator of the repository to O.K. the changes or resolve conflicting changes before officially updating the repository.
+
+##Additional notes
+The repository can be downloaded as a zip file if anyone wants access to the files locally
