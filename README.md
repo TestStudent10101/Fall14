@@ -11,7 +11,9 @@ You can add files and directories using the '+' symbol.  You can see this symbol
 You can edit files using the pencil symbol.  If you click on file such as README.md above, the pencil symbol will be to the right of the buttons that read Raw, Blame, and History.
 
 ##Pull Requests
-After an addition or edit has been made, the change must be proposed as a pull request. This pull request sends a request to the administrator of the repository to O.K. the changes or resolve conflicting changes before officially updating the repository.
+After an addition or edit has been made, propose the change (usually at the bottom of the input field) and create a pull request. This pull request sends a request to the administrator of the repository to O.K. the changes or resolve conflicting changes before officially updating the repository.  
 
 ##Additional notes
-The repository can be downloaded as a zip file if anyone wants access to the files locally
+1. The repository can be downloaded as a zip file if anyone wants access to the files locally.
+2. Adding a title and notes to your changes/pull request will allow the change to be understood and implemented more quickly
+3. Creating a pull request opens up a dialogue with the repository controller, who may want to ask you about certain changes before adding them to the repository
